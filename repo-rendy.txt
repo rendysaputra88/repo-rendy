@@ -1,0 +1,3 @@
+repo-rendy
+- konsisten berkarya sehari sekali
+- dst
